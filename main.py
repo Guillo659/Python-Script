@@ -7,4 +7,3 @@ class perro():
 
 perro = perro()
 perro.write("ascii", "kwerty", 8)
-# Oscar    3008058576

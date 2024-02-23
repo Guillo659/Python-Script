@@ -22,3 +22,5 @@ is_light_on = False
 print(type(is_light_on))
 
 a, b, c = "a", "b", "c"
+
+print(type(a))

@@ -1,0 +1,1 @@
+![Gráfica de y = 2cos(x/2)](https://chart.apis.google.com/chart?cht=lc&chs=500x300&chd=t:-6.28,6.28&chxt=x,y&chxr=0,-6.28,6.28|1,-2,2&chxl=0:|-2pi|-3pi/2|-pi|-pi/2|0|pi/2|pi|3pi/2|2pi&chco=FF0000&chds=-6.28,6.28,-2,2&chls=2&chm=B,C5D4B5BB,0,0,0)
